@@ -1,0 +1,53 @@
+#ifndef __FE7CHAPTERINDEX_EVENT__
+#define __FE7CHAPTERINDEX_EVENT__
+
+#define PrologueIdx 0x06
+#define Ch1Idx 0x09
+#define Ch2Idx 0x0F
+#define Ch3Idx 0x15
+#define Ch4Idx 0x1B
+#define Ch5Idx 0x21
+#define Ch6Idx 0x25
+#define Ch7Idx 0x28
+#define Ch7xIdx 0x2C
+#define Ch8Idx 0x2F
+#define Ch9Idx 0x32
+#define Ch10Idx 0x36
+#define Ch11EIdx 0x39
+#define Ch11HIdx 0x3D
+#define Ch12Idx 0x40
+#define Ch13Idx 0x43
+#define Ch13xIdx 0x47
+#define Ch14Idx 0x4B
+#define Ch15HIdx 0x4E
+#define Ch15_16Idx 0x51
+#define Ch16_17Idx 0x55
+#define Ch16x_17xIdx 0x5A
+#define Ch17_18Idx 0x61
+#define Ch18_19Idx 0x65
+#define Ch18x_19xIdx 0x69
+#define Ch19xIdx 0x6F
+#define Ch19_20Idx 0x72
+#define Ch20_21Idx 0x76
+#define Ch21_22Idx 0x7A
+#define Ch22_23Idx 0x7F
+#define Ch22x_23xIdx 0x83
+#define Ch23_24Idx 0x86
+#define Ch23_24Idx 0x89
+#define Ch25HIdx 0x8D
+#define Ch24_26Idx 0x90
+#define Ch25_27Idx 0x96
+#define Ch25_27Idx 0x9A
+#define Ch26_28Idx 0x9E
+#define Ch26x_28xIdx 0xA3
+#define Ch27_29Idx 0xA6
+#define Ch28EIdx 0xAD
+#define Ch30HIdx 0xB3
+#define Ch29_31Idx 0xB6
+#define Ch29x_31xIdx 0xB9
+#define Ch30_32Idx 0xBC
+#define Ch32xIdx 0xC0
+#define FinalChPt1Idx 0xC7
+#define FinalChPt2Idx 0xCA
+
+#endif //__FE7CHAPTERINDEX_EVENT__

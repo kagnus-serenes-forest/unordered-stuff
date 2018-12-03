@@ -1,0 +1,11 @@
+#ifndef __GENERIC_ENEMIES_EVENT__
+#define __GENERIC_ENEMIES_EVENT__
+
+#define GenericBerserker(id,loadX,loadY,X,Y,lv,AI) UNIT id Berserker 0 lv [loadX,loadY] [X,Y] [KillerAxe,Vulnerary] AI
+#define GenericBrigand(id,loadX,loadY,X,Y,lv,AI) UNIT id Brigand 0 lv [loadX,loadY] [X,Y] [SteelAxe,Vulnerary] AI
+#define GenericWarrior(id,loadX,loadY,X,Y,lv,AI) UNIT id Warrior 0 lv [loadX,loadY] [X,Y] [SteelAxe,SteelBow,Vulnerary] AI
+#define GenericMyrmydon(id,loadX,loadY,X,Y,lv,AI) UNIT id Myrmydon 0 lv [loadX,loadY] [X,Y] [KillingEdge,Vulnerary] AI
+#define GenericSwordmaster(id,loadX,loadY,X,Y,lv,AI) UNIT id Swordmaster 0 lv [loadX,loadY] [X,Y] [WoDao,Vulnerary] AI
+#define GenericAssassin(id,loadX,loadY,X,Y,lv,AI) UNIT id Assassin 0 lv [loadX,loadY] [X,Y] [KillingEdge,Vulnerary] AI
+
+#endif //__GENERIC_ENEMIES_EVENT__

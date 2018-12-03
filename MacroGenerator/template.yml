@@ -1,0 +1,39 @@
+Game: :fe7
+Leader: 0
+Classes:
+  Berserker:
+    Class: "Berserker"
+    Items:
+      1:   "KillerAxe"
+      2:   "Vulnerary"
+
+  Brigand:
+    Class: "Brigand"
+    Items:
+      1:   "SteelAxe"
+      2:   "Vulnerary"
+
+  Warrior:
+    Class: "Warrior"
+    Items:
+      1:   "SteelAxe"
+      2:   "SteelBow"
+      3:   "Vulnerary"
+
+  Myrmydon:
+    Class: "Myrmydon"
+    Items:
+      1:   "KillingEdge"
+      2:   "Vulnerary"
+
+  Swordmaster:
+    Class: "Swordmaster"
+    Items:
+      1:   "WoDao"
+      2:   "Vulnerary"
+
+  Assassin:
+    Class: "Assassin"
+    Items:
+      1:   "KillingEdge"
+      2:   "Vulnerary"
